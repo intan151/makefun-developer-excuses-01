@@ -9,6 +9,7 @@ as written at 2 a.m.
 
 import os
 
+# The joke lands because it blames the 2 a.m. author, not production: the code did exactly what it was told.
 LINE = (
     "My code didn't break in production \u2014 production just ran it "
     "exactly the way I wrote it at 2 a.m."
